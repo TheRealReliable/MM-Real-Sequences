@@ -4552,7 +4552,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Metroid/Item Get.mmrs",
-    "preview": "https://www.youtube.com/watch?v=VeEpJuq7MXE",
+    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Metroid/Item Get.mp3",
     "lufs": "-17.38",
     "hash": "915527235462a4084da7a098ebcf6c58"
   },
@@ -17013,8 +17013,8 @@
   {
     "uuid": "bb06d0a5-4ceb-4aed-bc86-f10166c5b0e3",
     "creationDate": "2026-03-22T02:57:23.625Z",
-    "game": "Castlevania: Bloodlines",
-    "song": "Simon Belmont's Theme (Fanfare)",
+    "game": "Super Castlevania IV",
+    "song": "Stage Clear",
     "composers": [
       "Michiru Yamane"
     ],
@@ -17030,7 +17030,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Castlevania Bloodlines/Simon Belmont's Theme (Fanfare).mmrs",
+    "file": "Super Castlevania IV/Stage Clear.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Castlevania Bloodlines/Simon Belmont's Theme (Fanfare).mp3",
     "lufs": "-22.56",
     "hash": "d2dcc67284369fe75c089f1dcb5fd1e5"
@@ -19948,7 +19948,7 @@
   {
     "uuid": "2f4ff588-c621-46d8-bdba-c8e3134bbe58",
     "creationDate": "2026-03-23T23:19:14.707Z",
-    "game": "Metroid Prime 2: Echoes",
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
     "song": "Twilight of the Gods",
     "composers": [
       "Yasuhisa Baba",
@@ -19965,7 +19965,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Metroid Prime 2 Echoes/Twilight of the Gods.mmrs",
+    "file": "Fire Emblem Echoes Shadows of Valentia/Twilight of the Gods.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Metroid Prime 2 Echoes/Twilight of the Gods.mp3",
     "lufs": "-15.40",
     "hash": "f4599fa1d818ecaed6e190c67f2bede7"
@@ -38340,8 +38340,8 @@
   {
     "uuid": "46e711a9-0849-4b75-aa35-b2a28dd5db2c",
     "creationDate": "2026-04-18T16:34:24.996Z",
-    "game": "Final Fantasy II",
-    "song": "Normal Battle",
+    "game": "Final Fantasy IV",
+    "song": "Battle [3]",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -38353,7 +38353,7 @@
       "4",
       "5"
     ],
-    "file": "Final Fantasy II/Normal Battle.mmrs",
+    "file": "Final Fantasy IV/Battle [3].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Final Fantasy II/Normal Battle.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -38364,8 +38364,8 @@
   {
     "uuid": "d62f1783-bc27-4bf1-98fb-8fe816275da8",
     "creationDate": "2026-04-18T16:35:15.284Z",
-    "game": "Final Fantasy III",
-    "song": "Battle 1",
+    "game": "Final Fantasy VI",
+    "song": "Battle",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -38377,7 +38377,7 @@
       "4",
       "5"
     ],
-    "file": "Final Fantasy III/Battle 1.mmrs",
+    "file": "Final Fantasy VI/Battle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Final Fantasy III/Battle 1.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -38388,7 +38388,7 @@
   {
     "uuid": "6708cbe0-5a52-43f5-acff-6ac73f458d5b",
     "creationDate": "2026-04-18T16:35:52.349Z",
-    "game": "Final Fantasy III",
+    "game": "Final Fantasy VI",
     "song": "Victory",
     "composers": [
       "Nobuo Uematsu"
@@ -38400,7 +38400,7 @@
     "categories": [
       "121"
     ],
-    "file": "Final Fantasy III/Victory.mmrs",
+    "file": "Final Fantasy VI/Victory.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Final Fantasy III/Victory.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -50373,7 +50373,7 @@
       "9"
     ],
     "file": "Super Mario 64/Lakitu.mmrs",
-    "preview": "https://www.youtube.com",
+    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario 64/Lakitu.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -70186,8 +70186,8 @@
     "lufs": "-13.36"
   },
   {
-    "song": "The Binding of Isaac: Antibirth",
-    "game": "Journey from a Jar to the Sky",
+    "game": "The Binding of Isaac: Antibirth",
+    "song": "Journey from a Jar to the Sky",
     "converters": [
       "meloonics"
     ],
@@ -72771,7 +72771,7 @@
   },
   {
     "game": "Final Fantasy III",
-    "song": "The Cave where the Crystal Lies",
+    "song": "Crystal Cave",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -72781,7 +72781,7 @@
     "uuid": "6cc84811-f299-4d44-8244-b701aec5b099",
     "hash": "c3245c705fa71b770c605adce4633306",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy III/The Cave where the Crystal Lies.mmrs",
+    "file": "Final Fantasy III/Crystal Cave.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Final Fantasy III/The Cave where the Crystal Lies.mp3",
     "type": "bgm",
     "categories": [
@@ -88511,6 +88511,9 @@
     "song": "The Valedictory Elegy",
     "converters": [
       "Seba 20 90"
+    ],
+    "composers": [
+      "Motoi Sakuraba"
     ],
     "uuid": "82bc47b3-82c0-4ff3-8cd0-544303cb099a",
     "hash": "92d2a446771474251d892096c6d09e54",
