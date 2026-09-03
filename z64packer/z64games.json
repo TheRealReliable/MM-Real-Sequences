@@ -4017,6 +4017,7 @@
   },
   {
     "game": "Guilty Gear X",
+    "series": "Guilty Gear Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/657e31ff3231b847d7604f6647a2dfc9.png"
   },
   {
@@ -4946,6 +4947,25 @@
     "game": "Yakuza 5",
     "series": "Yakuza Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/035042d40726e6ace259bef71f0acb03.png"
+  },
+  {
+    "game": "Worms",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3c26496c57764077d8ef078e75185ba3.png"
+  },
+  {
+    "game": "Castlevania: Curse of Darkness",
+    "series": "Castlevania Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/687fe34a901a03abed262a62e22f90db.png"
+  },
+  {
+    "game": "Guilty Gear XX",
+    "series": "Guilty Gear Series",
+    "logo": "https://static.wikia.nocookie.net/guilty-gear/images/7/7b/GGXX_Logo.png"
+  },
+  {
+    "game": "The Great Ace Attorney",
+    "series": "Ace Attorney Series",
+    "logo": "https://e.snmc.io/lk/o/x/de974d66d03dc8dd98964bd69909fc52/9196265"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
